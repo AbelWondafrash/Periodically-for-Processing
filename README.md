@@ -37,7 +37,7 @@ void draw () {
 ```
 
 
-# Arduino Version
+## Arduino Version
 Click [here](https://github.com/AbelWondafrash/Periodically-for-Arduino) to get Periodically for Arduino.
 
 
